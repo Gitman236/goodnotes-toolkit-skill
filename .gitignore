@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.goodnotes
+*.pdf
+*.tpl
+*.png
+*.jpg
+*.zip
+*.json
+extracted/
+tmp/

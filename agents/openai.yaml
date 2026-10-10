@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goodnotes Toolkit"
+  short_description: "Parse notebooks and restore editable native outlines"
+  default_prompt: "Use $goodnotes-toolkit to inspect this notebook and restore its PDF bookmarks as native outlines while preserving my notes."
