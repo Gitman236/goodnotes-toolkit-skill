@@ -25,7 +25,7 @@ Run `--help` for options. Python 3.10+ and `pypdf` are required; inspect/extract
 5. If replacement introduces PDF bookmarks, run `add-outlines` on the replacement result. Replacing a PDF attachment does not execute Goodnotes' normal PDF-import outline conversion.
 6. Reports may contain titles, typed notes, or recognition text. Keep them local unless the user explicitly requests sharing. Do not include user notebooks, textbooks, extracted PDFs, credentials, or real-note fixtures when publishing this skill.
 
-Respect third-party copyright and the user's authority to process the supplied files. If the task concerns publication, redistribution, or a rights complaint, read [references/copyright.md](references/copyright.md). The notice does not grant rights to notebook contents or promise immunity from liability; it does not add a routine permission question to ordinary authorized local processing.
+Respect third-party copyright and the user's authority to process the supplied files. If the task concerns publication, redistribution, or a rights complaint, read [NOTICE.md](NOTICE.md). The notice does not grant rights to notebook contents or promise immunity from liability; it does not add a routine permission question to ordinary authorized local processing.
 
 ## Outline repair
 
