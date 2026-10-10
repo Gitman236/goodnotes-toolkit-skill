@@ -1,6 +1,7 @@
 ---
 name: goodnotes-toolkit
 description: Inspect and extract .goodnotes archives, preserve editable notes while replacing a compatible PDF background, and convert embedded PDF bookmarks to Goodnotes native outlines. Use for Goodnotes file parsing, repacking, missing outlines, and handwriting recognition-cache inspection; this is not a complete renderer or handwriting OCR engine.
+license: MIT
 ---
 
 # Goodnotes Toolkit

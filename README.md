@@ -10,7 +10,7 @@ The native-outline event shape and four-level nesting were confirmed working by 
 
 ## Install and use
 
-Clone this repository, then copy its skill files into `~/.codex/skills/goodnotes-toolkit/` (or `$CODEX_HOME/skills/goodnotes-toolkit/`). Keep `SKILL.md`, `NOTICE.md`, `agents/`, `scripts/`, and `references/` together. Start a new Codex session if needed for discovery.
+Clone this repository, then copy its skill files into `~/.codex/skills/goodnotes-toolkit/` (or `$CODEX_HOME/skills/goodnotes-toolkit/`). Keep `SKILL.md`, `LICENSE`, `NOTICE.md`, `agents/`, `scripts/`, and `references/` together. Start a new Codex session if needed for discovery.
 
 ```sh
 python -m pip install -r requirements.txt
@@ -24,8 +24,10 @@ Invoke in Codex: `Use $goodnotes-toolkit to restore this notebook's PDF bookmark
 
 Reports and extraction outputs may contain private notebook text. This repository contains only generic scripts, documentation, and synthetic tests. No textbook, PDF, handwriting sample, credential, or private fixture is included.
 
-## Notice
+## License and notice
+
+Repository code and associated skill documentation are licensed under the [MIT License](LICENSE). Copyright (c) 2026 Gitman236. Third-party dependencies and notebook contents retain their respective licenses and rights.
 
 This is an independent, unofficial project. Process only files you are authorized to access, use, and modify. Preserve originals and check outputs before relying on them.
 
-See [NOTICE.md](NOTICE.md) for copyright ownership, authorized use, technical limitations, and the takedown reporting procedure. The notice is provided in English.
+See [NOTICE.md](NOTICE.md) for copyright ownership, authorized use, technical limitations, and the takedown reporting procedure. The notice is provided in English and does not modify or add restrictions to the MIT License.

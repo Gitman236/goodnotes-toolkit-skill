@@ -10,7 +10,7 @@
 
 ## 安装与使用
 
-克隆本仓库，将技能文件复制到 `~/.codex/skills/goodnotes-toolkit/`（或 `$CODEX_HOME/skills/goodnotes-toolkit/`）。请一起保留 `SKILL.md`、`NOTICE.md`、`agents/`、`scripts/` 和 `references/`。如未发现技能，可启动新的 Codex 会话。
+克隆本仓库，将技能文件复制到 `~/.codex/skills/goodnotes-toolkit/`（或 `$CODEX_HOME/skills/goodnotes-toolkit/`）。请一起保留 `SKILL.md`、`LICENSE`、`NOTICE.md`、`agents/`、`scripts/` 和 `references/`。如未发现技能，可启动新的 Codex 会话。
 
 ```sh
 python -m pip install -r requirements.txt
@@ -24,6 +24,8 @@ python -m unittest discover -s tests -v
 
 报告和提取结果可能含有私密笔记文字。本仓库仅包含通用脚本、技术说明和合成测试，不包含教材、PDF、真实手写样本、账户凭据或私密测试文件。
 
-## 声明
+## 许可证与声明
 
-完整版权说明、使用范围、技术限制和侵权反馈流程见 [NOTICE.md](NOTICE.md)。该文件仅提供英文版。
+仓库代码和技能文档采用 [MIT License](LICENSE)，著作权声明为 Copyright (c) 2026 Gitman236。第三方依赖和笔记内容仍适用各自的许可证及权利。
+
+完整版权说明、使用范围、技术限制和侵权反馈流程见 [NOTICE.md](NOTICE.md)。该文件仅提供英文版，不修改 MIT License，也不为其添加额外限制。

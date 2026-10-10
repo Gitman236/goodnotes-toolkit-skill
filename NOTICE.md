@@ -1,5 +1,7 @@
 # Copyright, disclaimer, and takedown requests
 
+Repository code and associated skill documentation are licensed under the [MIT License](LICENSE). Copyright (c) 2026 Gitman236. This notice is informational: it does not modify, replace, or add restrictions to that license. Third-party dependencies and notebook contents remain subject to their respective licenses and rights.
+
 ## Independence and ownership
 
 This is an independent, unofficial file-processing and technical research project. It is not affiliated with, endorsed by, certified by, or represented as an official partner of Goodnotes. Goodnotes names, trademarks, applications, and related intellectual property belong to their respective rights holders. Descriptive references identify the supported product or format and do not grant third-party rights.
@@ -16,7 +18,7 @@ Do not submit private notebooks, personal identifiers, protected source material
 
 The tools and documentation are provided as-is. To the extent permitted by applicable law, no guarantee is made of suitability for a particular purpose, compatibility with every Goodnotes version, complete object or visible-state reconstruction, or accurate handwriting transcription. Decompression or structural verification does not establish successful import into Goodnotes.
 
-Preserve source files, work on copies, and review output files and recognition results. Nothing here excludes liability that cannot lawfully be excluded, limits a rights holder's lawful remedies, or legitimizes unauthorized conduct. Any code-use permission is governed by a separately applicable license or authorization; this notice is not a software license.
+Preserve source files, work on copies, and review output files and recognition results. Nothing here excludes liability that cannot lawfully be excluded, limits a rights holder's lawful remedies, or legitimizes unauthorized conduct. Code-use permission is governed by the MIT License in LICENSE; this notice is not a separate software license.
 
 ## Reporting and removal
 
